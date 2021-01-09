@@ -1,6 +1,19 @@
-# PandownloadFake
-
+# PandownloadFake 
 虚假的Pandownload验证“服务器”
+## 使用方法
+修改hosts文件
+将Pandownload.com解析到
+高速节点（推荐）
+76.76.21.21
+Github节点（不推荐）
+185.199.108.153
+185.199.109.153
+185.199.111.153
+185.199.110.153
+
+# 感谢 AyagawaSeirin/PandownloadFake 
+
+-----------------------------------------
 
 Pandownload无法启动的原因是其服务器关闭了，但软件的下载百度网盘资源功能是正常的，所以搭建了这个伪服务端代替Pandownload服务器，使得软件可以正常启动。
 
