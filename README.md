@@ -4,11 +4,17 @@
 修改hosts文件
 将Pandownload.com解析到
 高速节点（推荐）
+
 76.76.21.21
+
 Github节点（不推荐）
+
 185.199.108.153
+
 185.199.109.153
+
 185.199.111.153
+
 185.199.110.153
 
 # 感谢 AyagawaSeirin/PandownloadFake 
